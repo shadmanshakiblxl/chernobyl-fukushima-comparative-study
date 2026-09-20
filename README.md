@@ -43,12 +43,6 @@ No heavy build tools or framework installations are needed. The platform is buil
 # Clone the repository
 git clone [https://github.com/shadmanshakiblxl/chernobyl-fukushima-comparative-study.git](https://github.com/shadmanshakiblxl/chernobyl-fukushima-comparative-study.git)
 
-# Navigate into the project folder
-cd YOUR-REPO-NAME
 
-# Start a local HTTP server
-python -m http.server 8000
-
-
-License
+###License
 This project is open-source and available for academic and educational purposes.
